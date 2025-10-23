@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# --- Virtual environments ---
+venv/
+env/
+*.env
+*.venv
+
+# --- Environment variables files ---
+.env
+.env.local
+.env.*
+
+# --- VS Code ---
+.vscode/
+
+# --- macOS junk ---
+.DS_Store
+
+# --- Node/React frontend ---
+node_modules/
+build/
+dist/
+
+# --- Logs ---
+*.log
+
+# --- Compiled / cache files ---
+*.egg-info/
+.cache/
