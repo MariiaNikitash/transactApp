@@ -34,3 +34,4 @@ dist/
 # --- Compiled / cache files ---
 *.egg-info/
 .cache/
+
